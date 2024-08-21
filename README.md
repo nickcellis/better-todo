@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-## Application
+## Application [INCOMPLETE!]
 
 A lightweight desktop application with support on Window's and Mac's, achieved by utilising Tauri development tools and NextJS + Rust to develop and design this application.
 
