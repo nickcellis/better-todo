@@ -80,7 +80,7 @@ export default function AddTodoPage({ handleCloseModal, handleCreateTodo }: AddT
                     </div>
 
                     <div className="w-full h-10">
-                        <button type="submit" className="w-full py-4 bg-blue-600 text-white rounded-lg" onClick={(event) => createTodo(event)}>
+                        <button type="submit" className="w-full py-4 bg-black text-white rounded-lg" onClick={(event) => createTodo(event)}>
                             Create
                         </button>
                     </div>

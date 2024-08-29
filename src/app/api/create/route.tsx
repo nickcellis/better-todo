@@ -8,7 +8,7 @@ export async function POST(request: Request) {
       readJSON()      // Reads the existing JSON data
     ]);
     
-    const { startDate, endDate, title, archive } = body;
+    const { startDate, endDate, title, archive } = body.todo;
     const todoProps = { startDate, endDate, title, archive }
 
     const existingTodoIndex = jsonData.findIndex((todo: any) => todo.title === title);
