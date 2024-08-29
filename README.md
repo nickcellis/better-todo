@@ -1,5 +1,8 @@
+<img width="391" alt="Screenshot 2024-08-29 at 14 41 24" src="https://github.com/user-attachments/assets/838f2b4e-8f03-47de-bece-c09e1242fa1c">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Application [INCOMPLETE!]
+
 
 A lightweight desktop application with support on Window's and Mac's, achieved by utilising Tauri development tools and NextJS + Rust to develop and design this application.
 
